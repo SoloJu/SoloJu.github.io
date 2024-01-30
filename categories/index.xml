@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - iofun</title>
+        <link>http://soloju.github.io/categories/</link>
+        <description>Categories - Category - iofun</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>info@iofun.net (Will)</managingEditor>
+            <webMaster>info@iofun.net (Will)</webMaster><atom:link href="http://soloju.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>
